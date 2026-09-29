@@ -21,7 +21,7 @@ Windows 10 and 11 (64-bit). The app isn't code-signed yet, so the first time you
 - After Show desktop, frames stay visible on the desktop instead of hiding behind it, and slip back behind
   your apps when your windows return.
 
-Already on 1.0.0? Install 1.0.1 over it; your photos, frames and settings are kept.
+Already on 1.0.0? Install 1.0.1 over it; your photos, frames and settings are kept. Full history: [CHANGELOG](CHANGELOG.md).
 
 ## What it does
 
