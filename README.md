@@ -14,6 +14,15 @@ Get the latest version from **[Releases](https://github.com/juhyeonie/Little-Fra
 Windows 10 and 11 (64-bit). The app isn't code-signed yet, so the first time you run it Windows SmartScreen may say it
 "protected your PC". Choose **More info → Run anyway**.
 
+## What's new in 1.0.1
+
+- Frames can always be dragged and repositioned. Before, they sometimes ignored the mouse until you opened
+  the app, especially after **Win+D / Show desktop**.
+- After Show desktop, frames stay visible on the desktop instead of hiding behind it, and slip back behind
+  your apps when your windows return.
+
+Already on 1.0.0? Install 1.0.1 over it; your photos, frames and settings are kept.
+
 ## What it does
 
 - Multiple Polaroid widgets that float on your desktop: drag them anywhere, resize from the corner
