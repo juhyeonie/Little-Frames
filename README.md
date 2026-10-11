@@ -1,5 +1,9 @@
 # Little Frames
 
+<p align="center">
+  <a href="https://juhyeonie.github.io/Little-Frames/"><img src="og-image.png" width="720" alt="Little Frames: your favourite photos, pinned to your desktop as tilted pastel Polaroids"></a>
+</p>
+
 Your favourite photos, pinned to your Windows desktop as little Polaroids.
 
 **Website:** [juhyeonie.github.io/Little-Frames](https://juhyeonie.github.io/Little-Frames/)
