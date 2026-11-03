@@ -1,7 +1,15 @@
 {
+  "id": "./",
   "name": "Little Frames — Cute Photo Widgets for Windows",
   "short_name": "Little Frames",
   "description": "Little Frames is a cute Windows desktop widget that lets you keep your favorite photos in Polaroid-style frames on your desktop.",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "photo",
+    "utilities",
+    "personalization"
+  ],
   "start_url": "./",
   "scope": "./",
   "display": "browser",
