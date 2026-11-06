@@ -37,6 +37,15 @@ Already on 1.0.0? Install 1.0.1 over it; your photos, frames and settings are ke
 
 Your photos never leave your PC.
 
+## Uninstalling
+
+Open **Settings → Apps → Installed apps**, find **Little Frames**, and choose **Uninstall**. (For the portable
+version, just delete the .exe.)
+
+Your frames and settings are kept, so they come back if you reinstall. To remove them too, delete the
+`%APPDATA%\Little Frames` folder. Little Frames never copies or changes your photos, so nothing in your
+picture folders is touched either way.
+
 ---
 
 Designed and developed by **Justine Pelgone**. This repository only hosts the downloads and the website.
